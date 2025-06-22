@@ -1,0 +1,9 @@
+Develop a logo for a new brand_true
+Create a responsive website layout_true
+Design a mobile app UI for a client_false
+Optimize SEO for an e-commerce site_false
+Create social media graphics for a campaign_true
+Develop a business card design_false
+Write content for a company blog_false
+Design a landing page for a product launch_true
+Build a WordPress theme for a portfolio site_false
